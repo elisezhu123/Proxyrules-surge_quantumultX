@@ -1,7 +1,12 @@
 # quantumult-X-rules
 I wrote nearly 3000 rules(global, global media, rules for Chinese, game....etc)
 below is the picture 
-![IMG_0448](https://github.com/elisezhu123/quantumult-X-rules/assets/68165050/3ad54fb5-de82-4e6c-aa29-a0a461db3716)
-![IMG_0449](https://github.com/elisezhu123/quantumult-X-rules/assets/68165050/910db18d-250d-40b0-b28e-c99581a39009)
-![IMG_0450](https://github.com/elisezhu123/quantumult-X-rules/assets/68165050/ab4003d8-af01-4de3-9dca-45fe52dab2c9)
-![IMG_0439](https://github.com/elisezhu123/quantumult-X-rules/assets/68165050/c8e41b20-a658-4938-ae5e-e43993bc1019)
+本人不喜欢打字,说废话,配置如何看图说话
+<img width="790" alt="截屏2023-06-01 上午3 49 43" src="https://github.com/elisezhu123/quantumult-X-rules/assets/68165050/4f940abc-a2ee-4132-a47c-5625f92897e4">
+<img width="790" alt="截屏2023-06-01 上午3 49 48" src="https://github.com/elisezhu123/quantumult-X-rules/assets/68165050/835bbd18-4de4-426f-b298-85a7cc0f1fc5">
+<img width="790" alt="截屏2023-06-01 上午3 49 54" src="https://github.com/elisezhu123/quantumult-X-rules/assets/68165050/ce9471f6-f534-4f5e-967f-a5d62afeb50a">
+<img width="790" alt="截屏2023-06-01 上午3 49 59" src="https://github.com/elisezhu123/quantumult-X-rules/assets/68165050/4cf6194a-a3d1-450d-9900-d9ee2ff5ff83">
+<img width="790" alt="截屏2023-06-01 上午3 50 01" src="https://github.com/elisezhu123/quantumult-X-rules/assets/68165050/62fec451-ec73-4e48-8aa0-35a1cd9c237e">
+<img width="790" alt="截屏2023-06-01 上午3 50 04" src="https://github.com/elisezhu123/quantumult-X-rules/assets/68165050/16d73116-b90b-43f9-b96f-80e5681b6209">
+<img width="790" alt="截屏2023-06-01 上午3 50 08" src="https://github.com/elisezhu123/quantumult-X-rules/assets/68165050/b4de79cc-e620-4348-9235-3e35c3f74a34">
+(规则和重写会越来越多,但我更新比较慢,谢谢理解)
