@@ -1,6 +1,4 @@
 # quantumult-X-rules
-I wrote nearly 3000 rules(global, global media, rules for Chinese, game....etc)
-below is the picture 
 本人不喜欢打字,说废话,配置如何看图说话
 <img width="790" alt="截屏2023-06-01 上午3 49 43" src="https://github.com/elisezhu123/quantumult-X-rules/assets/68165050/4f940abc-a2ee-4132-a47c-5625f92897e4">
 <img width="790" alt="截屏2023-06-01 上午3 49 48" src="https://github.com/elisezhu123/quantumult-X-rules/assets/68165050/835bbd18-4de4-426f-b298-85a7cc0f1fc5">
