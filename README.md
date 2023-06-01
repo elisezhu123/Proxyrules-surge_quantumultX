@@ -1,5 +1,5 @@
 # quantumult-X-rules
-本人不喜欢打字,说废话,配置如何看图说话
+目前重写还没开始,分流规则10000条(配置如果应用了别人都有注释,剩余的都是自己和朋友一起写的)
 <img width="790" alt="截屏2023-06-01 上午3 49 43" src="https://github.com/elisezhu123/quantumult-X-rules/assets/68165050/4f940abc-a2ee-4132-a47c-5625f92897e4">
 <img width="790" alt="截屏2023-06-01 上午3 49 48" src="https://github.com/elisezhu123/quantumult-X-rules/assets/68165050/835bbd18-4de4-426f-b298-85a7cc0f1fc5">
 <img width="790" alt="截屏2023-06-01 上午3 49 54" src="https://github.com/elisezhu123/quantumult-X-rules/assets/68165050/ce9471f6-f534-4f5e-967f-a5d62afeb50a">
