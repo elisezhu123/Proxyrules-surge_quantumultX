@@ -1,5 +1,5 @@
 # quantumult-X-rules
-inclule filter rulers, dns, rewrite rules of quantumult-X 
+inclule filter rules, dns, rewrite rules of quantumult-X 
 <img width="790" alt="截屏2023-06-01 上午3 49 43" src="https://github.com/elisezhu123/quantumult-X-rules/assets/68165050/4f940abc-a2ee-4132-a47c-5625f92897e4">
 <img width="790" alt="截屏2023-06-01 上午3 49 48" src="https://github.com/elisezhu123/quantumult-X-rules/assets/68165050/835bbd18-4de4-426f-b298-85a7cc0f1fc5">
 <img width="790" alt="截屏2023-06-01 上午3 49 54" src="https://github.com/elisezhu123/quantumult-X-rules/assets/68165050/ce9471f6-f534-4f5e-967f-a5d62afeb50a">
