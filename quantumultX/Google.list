@@ -1,0 +1,73 @@
+host-keyword,google,Google
+host-suffix,265.com,Google
+host-suffix,chromeexperiments.com,Google
+host-suffix,chromestatus.com,Google
+host-suffix,abc.xyz,Google
+host-suffix,android.com,Google
+host-suffix,androidify.com,Google
+host-keyword,appspot,Google
+host-suffix,chrome.com,Google
+host-suffix,chromium.org,Google
+host-suffix,whatbrowser.org,Google
+host-suffix,capitalg.com,Google
+host-suffix,blogger.com,Google
+host-suffix,googleblog.com,Google
+host-suffix,autodraw.com,Google
+host-suffix,deepmind.com,Google
+host-suffix,tensorflow.org,Google
+host-suffix,tfhub.dev,Google
+host-suffix,googleapis.com,Google
+host-keyword,blogspot,Google
+host-keyword,googlesource,Google
+host-suffix,godoc.org,Google
+host-suffix,golang.org,Google
+host-suffix,googlemashups.com,Google
+host-suffix,gwtproject.org,Google
+host-suffix,itasoftware.com,Google
+host-suffix,pkg.go.dev,Google
+host-suffix,dialogflow.com,Google
+host-suffix,gcp.gvt2.com,Google
+host-suffix,shattered.io,Google
+host-suffix,waveprotocol.org,Google
+host-suffix,webmproject.org,Google
+host-suffix,webrtc.org,Google
+host-suffix,withgoogle.com,Google
+host-suffix,madewithcode.com,Google
+host-suffix,synergyse.com,Google
+host-keyword,gmail,Google
+host-keyword,recaptcha,Google
+host-keyword,gstatic,Google
+host-suffix,gmodules.com,Google
+host-suffix,googleusercontent.com,Google
+host-suffix,gvt0.com,Google
+host-suffix,gvt1.com,Google
+host-suffix,gvt3.com,Google
+host-suffix,tiltbrush.com,Google
+host-suffix,debug.com,Google
+host-suffix,gv.com,Google
+host-suffix,polymer-project.org,Google
+host-suffix,waymo.com,Google
+host-suffix,widevine.com,Google
+host-suffix,x.company,Google
+host-suffix,getmdl.io,Google
+host-suffix,material.io,Google
+host-suffix,certificate-transparency.org,Google
+host-suffix,certificate-transparency.dev,Google
+host-suffix,creativelab5.com,Google
+host,fonts.googleapis.com,Google 全球加速
+host,fonts.gstatic.com,Google 全球加速
+host,ocsp.pki.goog,Google 全球加速
+host,crl.pki.goog,Google 全球加速
+host,redirector.c.bigcache.googleapis.com,Google 全球加速
+ip-cidr,173.194.0.0/16,Google
+ip-cidr,74.125.0.0/16,Google
+host,safebrowsing.googleapis.com,Google 全球加速
+host,safebrowsing-cache.google.com,Google 全球加速
+host,translate.googleapis.com,Google 全球加速
+host-suffix,dl.google.com,Google 全球加速
+host-suffix,dl.l.google.com,Google 全球加速
+host-suffix,google.cn,Google 全球加速
+host-suffix,ssl.gstatic.com,Google 全球加速
+host-suffix,tools.google.com,Google 全球加速
+host-suffix,tools.l.google.com,Google 全球加速
+host-suffix,update.googleapis.com,Google 全球加速
