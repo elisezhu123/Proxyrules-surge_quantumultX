@@ -1,4 +1,4 @@
-# quantumult-X-rules
+Rules and Rewrite for Surge and QuantumultX
 
 The above configuration supports the latest version of QX Store, bilibili, NetEase cloud music unlocking teaching intelligent streaming, various APP purification, Boxjs subscription, streaming media unlocking query, Zhihu unlocking, Mango TV unlocking, and other various de-advertising scripts...
 
