@@ -34,3 +34,12 @@ DOMAIN,www.bing.com
 
 # > GitHub Copilot
 DOMAIN-SUFFIX,githubcopilot.com
+
+# > Grok
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,x.ai
+
+# > Perplexity
+DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,pplx.ai
+DOMAIN,pplx-res.cloudinary.com
