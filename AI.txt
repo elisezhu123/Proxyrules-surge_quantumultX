@@ -1,0 +1,35 @@
+# > ChatGPT
+DOMAIN-SUFFIX,chat.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,livekit.cloud
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,sora.com
+DOMAIN,api.statsig.com
+DOMAIN,api-iam.intercom.io
+DOMAIN,o33249.ingest.sentry.io
+DOMAIN,openaiapi-site.azureedge.net
+DOMAIN-KEYWORD,openaiapi
+DOMAIN-KEYWORD,openaicom
+
+# > Apple Intelligence
+DOMAIN-SUFFIX,apps.mzstatic.com
+DOMAIN-SUFFIX,smoot.apple.com
+DOMAIN,gspe1-ssl.ls.apple.com
+DOMAIN,apple-relay.apple.com
+DOMAIN,apple-relay.cloudflare.com
+DOMAIN,apple-relay.fastly-edge.com
+DOMAIN,cp4.cloudflare.com
+DOMAIN,guzzoni.apple.com
+
+# > Claude
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,anthropic.com
+
+# > Microsoft Copilot
+DOMAIN,copilot.microsoft.com
+DOMAIN,sydney.bing.com
+DOMAIN,www.bing.com
+# > GitHub Copilot
+DOMAIN-SUFFIX,githubcopilot.com
