@@ -17,5 +17,4 @@ DOMAIN,bard.google.com
 DOMAIN,gemini.google.com
 # > > NotebookLM
 DOMAIN-KEYWORD,notebooklm.google
-# > > Search Labs
-DOMAIN-KEYWORD,labs.google
+
