@@ -1,13 +1,15 @@
 # Google Labs
-DOMAIN,labs.google.com
-DOMAIN,fxtools.google.com
-DOMAIN,aisandbox-pa.googleapis.com
-DOMAIN-SUFFIX,content-storage-upload.googleapis.com
+DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,googletagmanager.com
-DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,typekit.com
 DOMAIN-SUFFIX,google-analytics.com
+DOMAIN-SUFFIX,labs.google
+DOMAIN-SUFFIX,aisandbox-pa.googleapis.com
+DOMAIN-SUFFIX,storage.googleapis.com
+DOMAIN,support.google.com
+DOMAIN,apiws-phx-tc.yunxuetang.cn
+
 
