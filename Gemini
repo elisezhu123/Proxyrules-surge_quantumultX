@@ -4,10 +4,11 @@ DOMAIN-SUFFIX,geller-pa.googleapis.com
 DOMAIN-SUFFIX,generativelanguage.googleapis.com
 DOMAIN,mtalk.google.com
 DOMAIN,signaler-pa.clients6.google.com
+DOMAIN,clientstream.launchdarkly.com
 DOMAIN,ai.google.dev
 DOMAIN,bard.google.com
 DOMAIN,gemini.google.com
-DOMAIN,clientstream.launchdarkly.com
+
 DOMAIN,api.segment.io
 
 # > > AI Studio
