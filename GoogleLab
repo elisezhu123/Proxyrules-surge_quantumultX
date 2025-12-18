@@ -1,26 +1,26 @@
 # Google 核心服务
-DOMAIN,www.google.com,Google
-DOMAIN,www.google.com.hk,Google
-DOMAIN,labs.google,Google
-DOMAIN,play.google.com,Google
+DOMAIN,www.google.com
+DOMAIN,www.google.com.hk
+DOMAIN,labs.google
+DOMAIN,play.google.com
 
 # Google 静态资源/工具
-DOMAIN,www.gstatic.com,Google
-DOMAIN,fonts.googleapis.com,Google
+DOMAIN,www.gstatic.com
+DOMAIN,fonts.googleapis.com
 
 # Google 广告/分析
-DOMAIN,googleads.g.doubleclick.net,Google
-DOMAIN,www.googleadservices.com,Google
-DOMAIN,www.google-analytics.com,Google
+DOMAIN,googleads.g.doubleclick.net
+DOMAIN,www.googleadservices.com
+DOMAIN,www.google-analytics.com
 
 # Google API/后台服务
-DOMAIN,jnn-pa.googleapis.com,Google
-DOMAIN,aisandbox-pa.googleapis.com,Google
+DOMAIN,jnn-pa.googleapis.com
+DOMAIN,aisandbox-pa.googleapis.com
 
 # Google 支持/安全
-DOMAIN,support.google.com,Google
-DOMAIN,ogs.google.com.hk,Google
-DOMAIN,csp.withgoogle.com,Google
+DOMAIN,support.google.com
+DOMAIN,ogs.google.com.hk
+DOMAIN,csp.withgoogle.com
 
 
 
