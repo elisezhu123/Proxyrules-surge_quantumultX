@@ -1,5 +1,25 @@
 # Google Labs
-DOMAIN-SUFFIX,labs.google
+DOMAIN,labs.google
+
+# Google
+DOMAIN,www.gstatic.com
+DOMAIN,support.google.com
+DOMAIN,ogs.google.com.hk
+DOMAIN,play.google.com
+DOMAIN,jnn-pa.googleapis.com
+DOMAIN,googleads.g.doubleclick.net
+DOMAIN,www.google.com.hk
+DOMAIN,www.www.google-analytics.com
+DOMAIN,www.google.com
+DOMAIN,aisandbox-pa.googleapis.com
+DOMAIN,www.googleadservices.com
+DOMAIN,fonts.googleapis.com
+DOMAIN,csp.withgoogle.com
+
+
+
+
+
 
 
 
