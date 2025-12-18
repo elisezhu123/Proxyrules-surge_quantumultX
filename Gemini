@@ -10,7 +10,7 @@ DOMAIN,gemini.google.com
 DOMAIN,o298668.ingest.sentry.io
 DOMAIN,api.segment.io
 
-# Gemini AI Studio
+# Google AI Studio
 DOMAIN,accounts.google.com
 DOMAIN,www.google.com.hk
 DOMAIN,generativeai.google
