@@ -9,6 +9,11 @@ DOMAIN,bard.google.com
 DOMAIN,gemini.google.com
 DOMAIN,o298668.ingest.sentry.io
 DOMAIN,api.segment.io
+DOMAIN,clients1.google.com
+DOMIAN,www.google-analytics.com
+DOMAIN,www.googletagmanager.com
+DOMAIN,lh3.googleusercontent.com
+DOMAIN,rr3---sn-t0a7sn7d.googlevideo.com
 
 # Google AI Studio
 DOMAIN,accounts.google.com
