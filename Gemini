@@ -5,6 +5,8 @@ DOMAIN-SUFFIX,generativelanguage.googleapis.com
 DOMAIN,ai.google.dev
 DOMAIN,bard.google.com
 DOMAIN,gemini.google.com
+DOMAIN,clientstream.launchdarkly.com
+DOMAIN,api.segment.io
 
 # > > AI Studio
 DOMAIN-SUFFIX,generativeai.google
