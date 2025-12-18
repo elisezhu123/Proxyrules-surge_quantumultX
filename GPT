@@ -1,12 +1,4 @@
 # > ChatGPT
-DOMAIN-SUFFIX,chat.com
-DOMAIN-SUFFIX,livekit.cloud
-DOMAIN-SUFFIX,oaistatic.com
-DOMAIN-SUFFIX,oaiusercontent.com
-DOMAIN-SUFFIX,openai.com
-DOMAIN,api.statsig.com
-DOMAIN,api-iam.intercom.io
-DOMAIN,o33249.ingest.sentry.io
-DOMAIN,openaiapi-site.azureedge.net
-DOMAIN-KEYWORD,openaiapi
-DOMAIN-KEYWORD,openaicom
+DOMAIN,chatgpt.com
+DOMAIN,ws.chatgpt.com
+DOMAIN,ab.chatgpt.com
