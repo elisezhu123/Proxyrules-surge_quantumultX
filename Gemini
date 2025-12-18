@@ -8,7 +8,7 @@ DOMAIN,clientstream.launchdarkly.com
 DOMAIN,ai.google.dev
 DOMAIN,bard.google.com
 DOMAIN,gemini.google.com
-
+DOMAIN,o298668.ingest.sentry.io
 DOMAIN,api.segment.io
 
 # > > AI Studio
