@@ -1,30 +1,13 @@
 # Gemini
-DOMAIN,proactivebackend-pa.googleapis.com
-DOMAIN,geller-pa.googleapis.com
-DOMAIN,generativelanguage.googleapis.com
-DOMAIN,mtalk.google.com
-DOMAIN,clientstream.launchdarkly.com
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,launchdarkly.com
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,googleusercontent.com
+DOMAIN-SUFFIX,google-analytics.com
+DOMAIN-SUFFIX,googletagmanager.com
+DOMAIN-SUFFIX,segent.io
+DOMAIN-SUUFIX,google.com
 DOMAIN,ai.google.dev
-DOMAIN,bard.google.com
-DOMAIN,gemini.google.com
-DOMAIN,o298668.ingest.sentry.io
-DOMAIN,api.segment.io
-DOMAIN,clients1.google.com
-DOMAIN,www.google-analytics.com
-DOMAIN,www.googletagmanager.com
-DOMAIN,lh3.googleusercontent.com
-DOMAIN,rr3---sn-t0a7sn7d.googlevideo.com
 
-# Google AI Studio
-DOMAIN,accounts.google.com
-DOMAIN,www.google.com.hk
-DOMAIN,generativeai.google
-DOMAIN,makersuite.google.com
-DOMAIN,aistudio.google.com
-DOMAIN,alkalicore-pa.clients6.google.com
-DOMAIN,people-pa.clients6.google.com
-DOMAIN,ogads-pa.clients6.google.com
-DOMAIN,waa-pa.clients6.google.com
-DOMAIN,signaler-pa.clients6.google.com
-DOMAIN,alkalimakersuite-pa.clients6.google.com
+
 
